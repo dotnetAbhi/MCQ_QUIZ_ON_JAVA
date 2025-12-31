@@ -9,14 +9,14 @@ Predefined set of questions with multiple options,
 Automatic answer validation,
 Real-time score calculation,
 Console-based user-friendly interface,
-Simple and lightweight execution,
+Simple and lightweight execution.
 
 🛠️ Technologies Used
-Language: Java
+Language: Java.
 
 Concepts:
-OOP (Classes & Objects)
-Arrays / ArrayList
-Loops & Conditional Statements
+OOP (Classes & Objects),
+Arrays / ArrayList,
+Loops & Conditional Statements.
 
-Input handling (Scanner)
+Input handling (Scanner).

@@ -17,7 +17,6 @@ Console-based user-friendly interface
 Simple and lightweight execution
 
 🛠️ Technologies Used
-
 Language: Java
 
 Concepts:

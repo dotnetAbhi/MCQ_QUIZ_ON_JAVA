@@ -11,7 +11,7 @@ Real-time score calculation,
 Console-based user-friendly interface,
 Simple and lightweight execution.
 
-🛠️ Technologies Used
+🛠️ Technologies Used.
 Language: Java
 
 Concepts:

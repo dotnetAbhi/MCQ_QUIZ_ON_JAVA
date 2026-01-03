@@ -17,6 +17,6 @@ Language: Java
 Concepts:
 OOP (Classes & Objects)
 Arrays / ArrayList,
-Loops & Conditional Statements.
+Loops & Conditional Statements
 
 Input handling (Scanner).

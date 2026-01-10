@@ -9,7 +9,7 @@ Predefined set of questions with multiple options,
 Automatic answer validation,
 Real-time score calculation,
 Console-based user-friendly interface,
-Simple and lightweight execution.
+Simple and lightweight execution
 
 🛠️ Technologies Used.
 Language: Java

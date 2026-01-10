@@ -5,7 +5,7 @@ It allows users to answer predefined questions, calculates scores automatically,
 
 🎯 Features
 Interactive MCQ-based quiz system,
-Predefined set of questions with multiple options,
+Predefined set of questions with multiple options
 Automatic answer validation,
 Real-time score calculation
 Console-based user-friendly interface

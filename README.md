@@ -19,4 +19,4 @@ OOP (Classes & Objects)
 Arrays / ArrayList,
 Loops & Conditional Statements
 
-Input handling (Scanner).
+Input handling (Scanner)

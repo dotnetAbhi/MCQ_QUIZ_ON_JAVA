@@ -8,7 +8,7 @@ Interactive MCQ-based quiz system,
 Predefined set of questions with multiple options,
 Automatic answer validation,
 Real-time score calculation,
-Console-based user-friendly interface,
+Console-based user-friendly interface
 Simple and lightweight execution
 
 🛠️ Technologies Used.

@@ -15,7 +15,7 @@ Simple and lightweight execution.
 Language: Java
 
 Concepts:
-OOP (Classes & Objects)
+OOP (Classes & Objects).
 Arrays / ArrayList,
 Loops & Conditional Statements
 

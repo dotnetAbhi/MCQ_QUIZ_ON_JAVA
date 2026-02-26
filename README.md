@@ -1,4 +1,4 @@
- 📌 Project Overview    
+ 📌 Project Overview     
   
 The MCQ Quiz Application is a Java-based application designed to conduct multiple-choice quizzes in an interactive and efficient way. 
 It allows users to answer predefined questions, calculates scores automatically, and displays results instantly. This project focuses on strengthening core Java concepts and logical problem-solving skills.
